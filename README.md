@@ -1,4 +1,4 @@
-# GAGGIA-boiler-element-gasket-template
+# FAEMA-boiler-element-gasket-template
 
-![GAGGIA_element_gasket](https://github.com/derekmccallum/GAGGIA-boiler-element-gasket-template/assets/27998937/a866acb8-8ad9-44a4-8da7-ba672b7f94f6)
+![FAEMA_element_gasket](https://github.com/derekmccallum/FAEMA-boiler-element-gasket-template/assets/27998937/d6fffd4e-0179-4ebf-b095-549e0e0f0831)
 
